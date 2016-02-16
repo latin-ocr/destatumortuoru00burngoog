@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./destatumortuoru00burngoog_0256.png"; bbox 0 0 767 1206; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 550 902 606 924">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 550 902 606 924">
+     <span class='ocr_line' id='line_1_1' title="bbox 550 902 606 924; baseline 0.036 -6"><span class='ocrx_word' id='word_1_1' title='bbox 550 902 586 919; x_wconf 79' lang='lat' dir='ltr'>Cor.</span> <span class='ocrx_word' id='word_1_2' title='bbox 592 909 606 924; x_wconf 83' lang='lat'>3.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 548 933 593 980">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 548 933 593 980">
+     <span class='ocr_line' id='line_1_2' title="bbox 548 933 593 961; baseline 0.022 -5"><span class='ocrx_word' id='word_1_3' title='bbox 548 933 575 957; x_wconf 59' lang='lat' dir='ltr'>feb.</span> <span class='ocrx_word' id='word_1_4' title='bbox 580 947 593 961; x_wconf 88' lang='grc' dir='ltr'>ς.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 548 964 587 980; baseline 0.051 -6"><span class='ocrx_word' id='word_1_5' title='bbox 548 964 559 975; x_wconf 87' lang='grc' dir='ltr'>ι.</span> <span class='ocrx_word' id='word_1_6' title='bbox 565 965 587 980; x_wconf 83' lang='lat'>¹3·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
